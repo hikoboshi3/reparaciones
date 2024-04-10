@@ -1,0 +1,7 @@
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\bin\Debug\Modelos.dll.config
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\bin\Debug\Modelos.dll
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\bin\Debug\Modelos.pdb
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\obj\Debug\Modelos.dll
+D:\Charlie\ProyectosCarlos\reparaciones\Modelos\obj\Debug\Modelos.pdb

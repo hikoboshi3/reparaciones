@@ -1,0 +1,17 @@
+[
+  {
+    "key": "DB",
+    "server": "SQLCC",
+    "username": "sldisql",
+    "password": "Q665U74HtG4IEB97Sck6IEt_Frd2",
+    "database": "gateway_debitos"
+  },
+  {
+    "key": "DBCC",
+    "server": "SQLCC",
+    "username": "cardcred_dev",
+    "password": "msinMSW35a3a",
+    "database": "gateway_debitos"
+  }
+
+]

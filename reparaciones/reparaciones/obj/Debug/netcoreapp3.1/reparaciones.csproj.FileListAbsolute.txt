@@ -1,0 +1,6 @@
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.csproj.AssemblyReference.cache
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.AssemblyInfoInputs.cache
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.AssemblyInfo.cs
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.csproj.CoreCompileInputs.cache
+D:\Charlie\ProyectosCarlos\reparaciones\reparaciones\obj\Debug\netcoreapp3.1\reparaciones.MvcApplicationPartsAssemblyInfo.cache
